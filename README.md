@@ -57,7 +57,7 @@ $ git push <br />
 <summary>Credentials</summary>
 <br>
 Username for 'https://github.com': OierGman <br />
-#### Support for password authentication was removed on August 13, 2021.
+### Support for password authentication was removed on August 13, 2021. <br />
 Password for 'https://OierGman@github.com': <br />
 Create access token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 </details>
