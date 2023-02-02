@@ -59,7 +59,7 @@ $ git commit -m " *insert commit message* " <br>
 Push all tracked files to Repo (Learning_C) <br>
 $ git push <br>
 <br>
-<details>
+<details open>
 <summary>Credentials</summary>
 <br>
 Username for 'https://github.com': OierGman <br>
