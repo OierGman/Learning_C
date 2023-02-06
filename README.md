@@ -8,7 +8,8 @@ Set up name & email in git by running <br>
 <br>
 ```sh
 $ git config --global user.email "you@example.com" 
-``` <br>
+``` 
+<br>
 ```sh
 $ git config --global user.name "Your Name"
 ```
