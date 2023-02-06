@@ -6,8 +6,12 @@
 
 Set up name & email in git by running <br>
 <br>
-$ git config --global user.email "you@example.com" <br>
+```sh
+$ git config --global user.email "you@example.com" 
+``` <br>
+```sh
 $ git config --global user.name "Your Name"
+```
 
 ### Step 2
 
